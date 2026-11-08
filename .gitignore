@@ -1,10 +1,14 @@
-# Materiales fuente — NO publicar por derechos de autor
+# Materiales fuente — NO publicar por derechos de autor / privacidad de terceros
 *.pdf
 *.ppt
 *.pptx
 *.doc
 *.docx
 *.key
+*.jpg
+*.jpeg
+*.png
+*.heic
 
 # Sistema
 .DS_Store

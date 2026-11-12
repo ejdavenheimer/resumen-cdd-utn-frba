@@ -64,6 +64,11 @@
             <p>Estructura del examen y los temas que más se repiten entre parciales.</p>
             <span class="pill amber">empezá por acá</span>
           </div>
+          <div class="card" style="cursor:pointer" data-go="formulas">
+            <h3 style="margin-top:0">🧮 Hoja de fórmulas</h3>
+            <p>Todas las fórmulas del parcial juntas, sin explicaciones, para repasar rápido.</p>
+            <span class="pill amber">machete</span>
+          </div>
         </div>
 
         <div class="callout warn">

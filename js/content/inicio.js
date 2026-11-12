@@ -69,6 +69,11 @@
             <p>Todas las fórmulas del parcial juntas, sin explicaciones, para repasar rápido.</p>
             <span class="pill amber">machete</span>
           </div>
+          <div class="card" style="cursor:pointer" data-go="parcial-resuelto">
+            <h3 style="margin-top:0">✅ Parcial resuelto</h3>
+            <p>4 parciales reales de este profesor, resueltos punto por punto, con diagramas bien hechos.</p>
+            <span class="pill green">modelo</span>
+          </div>
         </div>
 
         <div class="callout warn">

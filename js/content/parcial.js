@@ -99,7 +99,9 @@
           de Modulación digital, no es parte de este parcial — salteálo tranquilo y enfocate en lo de arriba.</p>
         </div>
 
-        <p>Ahora sí, a practicar: <a class="inline" data-go="preguntas" style="cursor:pointer">ir a Preguntas</a>.</p>
+        <p>Mirá estos mismos puntos ya resueltos, con los diagramas hechos, en
+        <a class="inline" data-go="parcial-resuelto" style="cursor:pointer">Parcial resuelto</a>. Ahora sí, a
+        practicar: <a class="inline" data-go="preguntas" style="cursor:pointer">ir a Preguntas</a>.</p>
       `;
       el.querySelectorAll("[data-go]").forEach((c) => c.addEventListener("click", () => APP.go(c.dataset.go)));
     },

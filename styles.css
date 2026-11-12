@@ -292,6 +292,19 @@ table.data th, table.data td {
   text-align: center;
 }
 table.data th { background: var(--brand-soft); }
+
+/* Diagramas (SVG inline) */
+.diagram-wrap {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1rem 1rem 0.6rem;
+  margin: 1rem 0;
+  box-shadow: var(--shadow);
+  overflow-x: auto;
+}
+.diagram-wrap svg { display: block; width: 100%; height: auto; max-width: 640px; margin: 0 auto; }
+.diagram-caption { text-align: center; font-size: 0.82rem; color: var(--muted); margin: 0.5rem 0 0.2rem; }
 table.data td:first-child, table.data th:first-child { text-align: left; font-weight: 600; }
 
 /* Simplex tableau */
